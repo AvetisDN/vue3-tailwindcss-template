@@ -28,4 +28,4 @@ or
 ---
 
 ### FontAwesome Icons list
-[go to fontawesome.com](https://fontawesome.com/v5.15/icons?d=gallery&p=2&m=free){:target="_blank"}
+<a href="https://fontawesome.com/v5.15/icons?d=gallery&p=2&m=free" target="_blank">https://fontawesome.com/v5.15/icons?d=gallery&p=2&m=free</a>
