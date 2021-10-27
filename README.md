@@ -1,4 +1,4 @@
-# Vue 3 + Vite + Inter + Material Icons
+# Vue 3 + Vite + Inter Font + FontAwesome Icons
 
 ### Installation:
 
@@ -27,5 +27,5 @@ or
 
 ---
 
-### Material Icons list
-[https://fonts.google.com/icons](https://fonts.google.com/icons)
+### FontAwesome Icons list
+[go to fontawesome.com](https://fontawesome.com/v5.15/icons?d=gallery&p=2&m=free){:target="_blank"}
